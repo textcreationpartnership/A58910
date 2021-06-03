@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable and honest advice to the nobility, clergy, gentry, souldiery, and other the King's subjects, upon the invasion of His Highnes the Prince of Orange</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58910</idno><idno type="EEBO-CITATION">13135490</idno>
+  <idno type="VID">97909</idno>
+  <idno type="EEBO-PROQUEST">2248539090</idno>
+  
+            <idno type="STC">Wing S2214</idno>
+            <idno type="STC">ESTC R13208</idno>
+            <idno type="OCLC">13135490</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97909)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable and honest advice to the nobility, clergy, gentry, souldiery, and other the King's subjects, upon the invasion of His Highnes the Prince of Orange</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by Randal Taylor,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:97909:1"/>
+            <pb n="1" facs="tcp:97909:1"/>
+            <head>Seasonable and Honest ADVICE TO THE Nobility, Clergy, Gentry, Souldiery, And other the King's Subjects, UPON THE INVASION Of His HIGHNES the <hi>Prince of Orange.</hi>
+            </head>
+            <div type="part">
+               <head>To the Nobility.</head>
+               <opener>
+                  <salute>MY LORDS,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>T is from the Royal Bounty that you derive your Pre<g ref="char:EOLhyphen"/>eminence, Dignity and Titles, and at least from the pro<g ref="char:EOLhyphen"/>tection of the Crown, that you enjoy your splendid For<g ref="char:EOLhyphen"/>tunes. The Founders of your Families received them as Rewards of their Prowess, or other signal Services to our Kings; so that there lies an irrevocable Obligation upon your Lordships, to support that Crown which circled your Heads with Coroners, and to use that Sword for the de<g ref="char:EOLhyphen"/>fence of the King, who Himself or His Ancestors girt you or your Noble Pro<g ref="char:EOLhyphen"/>genitors with it: And as you inherit their Titles and Estates, so it is your duty, and will be your glory, to imitate their Practices in true Zeal and Loyalty to your lawful Sovereign.</p>
+               <pb n="2" facs="tcp:97909:2"/>
+               <p>Think with your selves when you view the magnificent Tombs of your Illustrious Fore-fathers, and read their mighty Deeds recorded in our Annals, that they admonish and excite your Duty: By that means you will preserve your Blood untainted, and transmit it such to your Posterity.</p>
+               <p>If your Lordships vouchsafe to peruse our Chronicles, you will easily find, not only what blemishing Characters are transmitted to us of such who have been Factious or Rebellious against the Crown, but likewise how unfortunate they have been in such Undertakings.</p>
+               <p>We have fresh Memorials of the unhappy Conduct of Noble Peers in the Reign of King <hi>Charles</hi> the First, who, wrought upon by malevolent Designers, to espouse the pretended Cause, the Defence of the Protestant Religion, Liber<g ref="char:EOLhyphen"/>ty and Property, brought upon us a Civil War, with all the unexpressible conco<g ref="char:EOLhyphen"/>mitants of bloodshed, Ruin and Devastation, that might astonish us to this day to remember. There was scarce a Family out of which one or other dear Relation was not cut off with the Edge of the Sword, scarce a Cottage that escaped Plunder, no corner of a County that had not some Skirmish or Battel in it; in which all degrees of Men, and all sorts of Religions, at one time or other, shared in the common Ruin.</p>
+               <p>The Declarations, Remonstrances and Addresses of the pretenders, to re<g ref="char:EOLhyphen"/>form and redress Grievances, were every whit as specious as this of the Prince of <hi>Oranges,</hi> yet ere the War was ended, the first undertakers had the Sword wrested out of their hands, and after the slaughter of so many brave Men, and the ruine of so many ancient Families; we fought the Nobility into the State of Commoners, the Freemen of <hi>England</hi> into a Slavery to every common Troop<g ref="char:EOLhyphen"/>er, the Monarchy into a Common-Wealth, and Episcopal Government into Presbytery, and that into Independency, and no Man knows how many spaw<g ref="char:EOLhyphen"/>ned Sects, and all our Laws into the Arbitrary Wills of Usurpers.</p>
+               <p>Is it not sufficiently known, that all this Misery might have been prevented? If some Noble Lords of that Age had stuck close to the Crown and their Allegiance, and confided in the Kings gracious Declarations, and had not instigated the People to Rebellion.</p>
+               <p>There is now something a new Scene opened, yet the sacred Names of Re<g ref="char:EOLhyphen"/>ligion, Liberty and Property, are still pretended; only we have a sort of the unlikeliest Instruments, that some Bigotted Creatures would stile our Deliverers, that ever undertook a just Regulation, for the good of the Publick.</p>
+               <p>A Prince who having well nigh enslaved his own States, is come to fight us in<g ref="char:EOLhyphen"/>to Liberty; one who without any shadow of title, or any just Provocation, designs to dethrone our lawful Sovereign, his Unkle, and Father of his Princess, comes to be the Conservator of our Laws; one, who when he had the signed Treaty of Peace in his hands, could kill some thousands at <hi>Mons,</hi> comes to be trusted on his word, that he will not claim the Crown; one who would load our So<g ref="char:EOLhyphen"/>vereign and the Queen with the most odious of all Crimes, such as the most profligate and flagitious can scarce be guilty of, to substitute an Imposture and supposititious Prince to succeed in the Royal Throne, comes to be the Preserver of our Birth-rights. Can he who publisheth to the World, that some of your Order are Traytors to the King, by inviting him to this Invasion, which in as
+<pb n="3" facs="tcp:97909:2"/> many of you as know he fasly traduceth you, must raise the highest Indignati<g ref="char:EOLhyphen"/>on against him, obtain of you a belief of his Candor or Veracity?</p>
+               <p>I might design the Antitype further, but out of respect to that Blood which should run in his Veins, I must cover the rest with the Vail of a daring Am<g ref="char:EOLhyphen"/>bition, and only suggest to your Lordships as Persons of Honour, that since you owe no Allegiance to any Foreign Power, and that you know that no King ever Reigned who had a more indisputable Right to his Crown, than our King hath; you will with a just Indignation reject all the Overtures he shall make to enslave your King or you, and give no more credit to the most coloura<g ref="char:EOLhyphen"/>ble of his Pretences, than you would do to one who under pretence of coming to give you a courteous Visit, designed to cut your Throat.</p>
+               <p>Let us now consider what Tools he brings with him to effect this glorious Preservation of our Religion and Liberties.</p>
+               <p>Can we expect that mercenary Souldiers of Fortune, such as neither know our Language, Laws, Custom or Religion, nor ever knew so much as the Cha<g ref="char:EOLhyphen"/>racter of an <hi>English</hi> Freeman, and have been bred up from their first Enroll<g ref="char:EOLhyphen"/>ment, to Plunder and Rapine, will be the Guardians of our Properties, Laws or Religion, or come for any other End but Conquest?</p>
+               <p>Can any be of such prostitute belief, as to think your Lordships can preserve your Honours, your Estates, or your Religion, by renouncing your Allegiance? Tho there are some few of your Order, whose Characters are so well known, that it would be no <hi>Scandalum Magnatum</hi> to expose them; yet I doubt not, but there remains very many of your Lordships, who do judge the best security for the Protestant Religion, is to adhere firmly to the King, as indispensibly thereto bound by the Laws of God, of the Church, and of our Native Coun<g ref="char:EOLhyphen"/>try.</p>
+               <p>Those who are desirous to entail a War, even of the cruellest kind, upon their Posterity; those who will not think their Religion safe, till <hi>Swedes, Germans</hi> and <hi>Dutch,</hi> have over-run this Island, and enslaved us; those who think it more pleasing to God, that our Fields should be spread with the Carcasses of our slain nearest Relations, than that a Popish Chapel should be standing, or Liberty to Dissenters be allowed; those who had rather see their just and mer<g ref="char:EOLhyphen"/>ciful King dethroned and murthered, and the <hi>Dutch</hi> establish their Hogen mo<g ref="char:EOLhyphen"/>genship here, than that a Papist should live amongst them, may rush head<g ref="char:EOLhyphen"/>long into confusion and ruin.</p>
+               <p>But if your Lordships, with your Relations, Tenants and Dependants, chear<g ref="char:EOLhyphen"/>fully flock to the Royal Standard, all this threatning Calamity will be pre<g ref="char:EOLhyphen"/>vented; and the King, your selves, and the whole Kingdom will be rescued from all these Miseries, an Invasion or Civil War would overwhelm us with</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:97909:3"/>
+               <head>To the Reverend Clergy.</head>
+               <p>ALtho your Religion and the Liberty of your Consciences be precious to you, yet I hope you that experimentally know how firmly Protestantism is rooted in the Souls of the People, can have no colour of necessity to call in Foreigners to secure it. Had you been commanded to abjure your Religion or your Country, you might have had some pretence to have solicited some Protestant Prince to have sheltered and protected you; tho even in that case, you cannot be so far ignorant of your Duty as Christians and Subjects, much more as Rulers, Guides, and Pastors of the Church of <hi>England,</hi> as not to know, that promoting, countenancing, or abetting any Invadors of the Do<g ref="char:EOLhyphen"/>minions of your lawful Sovereign, or rebelling against him, is directly contra<g ref="char:EOLhyphen"/>ry to your Natural Allegiance, and to the Principles and Practice of the Church of <hi>England.</hi>
+               </p>
+               <p>It is not long since it was enacted, that every one that had any Ecclesiastical Function or Dignity, that were Fellows of Colledges, Chaplains, Tutors or School-masters, should subscribe this following Declaration: <hi>I</hi> A. B. <hi>Do de<g ref="char:EOLhyphen"/>clare, That it is not lawful upon any pretence whatsoever, to take Arms against the King, and that I do abhor that trayterous Position of taking Arms by his Authority against his Person.</hi>
+               </p>
+               <p>Surely, if this was good Law then, it ought to be good Doctrin now; and neither the Prince of <hi>Orange</hi> nor any other Prince of Christendom, can give any Man authority to take Arms against the King.</p>
+               <p>Some therefore judge it inconsistent with the Duty of the Spiritual Lords, to deny the publication of this Doctrin, when the Prince of <hi>Orange</hi> de<g ref="char:EOLhyphen"/>clares to the World, that some of them invited him to undertake this unjust Invasion?</p>
+               <p>This refusal will give occasion to the enemies of our Church to say, That the Clergy of late shewed a Courage beyond Expectation, to say no more, in denying to Publish the King's Declaration for Liberty of Conscience, and ought not now to be so timorous of offending the Prince of <hi>Orange,</hi> as not to speak and publish Truth, when some of them are in such direct terms de<g ref="char:EOLhyphen"/>clared by himself, his Complices and Abettors? It seems to them that the King must be served with Negatives, and the Doctrine of Non-Resistance is dwindled to that of Non-Obedience; and we already hear them upbraid us thus.</p>
+               <p>Doth this look like the Practice of the old <hi>English</hi> Hierarchy, or the an<g ref="char:EOLhyphen"/>cient Doctrine of the Fathers of our Church, that have taught, according to God's Word, all her Sons Obedience to the King as Supream, for Conscience sake; especially when no more is required than the declaring the Articles of that Church you profess your selves the Heads of, and to answer Categorically to the Impeachment the Prince of <hi>Orange</hi> hath published against you.</p>
+               <p>Those who are afraid to lose with the People their Reputations of being zealous Protestants, must think with themselves, that they are likewise to preserve their Reputation with God and the World, in being Loyal Subjects and Mem<g ref="char:EOLhyphen"/>bers,
+<pb n="5" facs="tcp:97909:3"/> or Overseers of that Church, whereof, never any before them for fear of Threats or Sufferings, denied their Allegiance.</p>
+               <p>You know how the generality of your Order have stood by the Crown in the Reigns of his Majesties Royal Father and Brother. The Person it is true is changed, but the Regal Dignity, and your Obligation of being our present Gracious Sovereign's Liege-People, is the same.</p>
+               <p>While you apprehended the Protestant Religion, or Church of <hi>England</hi> was in danger, there were few Sermons preached, wherein either the whole Dis<g ref="char:EOLhyphen"/>course was not upon some Head of Controversie betwixt the Church of <hi>Rome</hi> or Dissenters, and the Church of <hi>England,</hi> or else in which some remarkable Reflections were not made upon them; yet the goodness of the King was such, that the managing of this was neither prohibited in the Press or Pulpit.</p>
+               <p>But you could not but observe, that as that way of preaching sufficiently maintained the warmth and zeal of your Auditors to the Protestant Religion, and raised even an abhorrence of the Romish: So it operated further than I hope you designed it, even to estrange the Affections of the People from the Person of the King and his Government, and occasioned all those Hardships you complained of, and by consequence hath encouraged this present Invasion. Now therefore that you find your Religion so secure, and that the King hath re<g ref="char:EOLhyphen"/>moved all things that might ever put it into danger: I humbly conceive, and verily hope, that you will consider the Inconveniences of that Method, and with as much zeal declaim against such as will not distinguish betwixt their desire to preserve their Religion, and the unjustifiable Methods of securing it, by rebelling and countenancing this Invasion.</p>
+               <p>You all know how ready the King is, and ever hath been, to gratifie such as discovered any Zeal for his Service; and it was some Persons unseasonable Ob<g ref="char:EOLhyphen"/>stinacy or Disrespect, that caused the King to withdraw some of his Favors from them: But the fresh instance of the great Reward given to the Bishop of <hi>Exeter</hi> for his late seasonable Loyalty, is a sufficient Testimony, that Loyalty to the King can never miss of a Recompence.</p>
+               <p>It is not to such as do their Duty at this time I address this Discourse, Heaven will bless them, and After-ages will testifie that they were true Sons of a Loyal Church; it is to the Factions, Short-sighted, or Infected, I apply my self at present.</p>
+               <p>You know the utmost Aims of our Gracious Sovereign is to obtain an Esta<g ref="char:EOLhyphen"/>blishment of Liberty of Conscience, and lest the Church of <hi>England</hi> should be Jealous that it would be a diminution to it, the King hath always been willing it should be secured by the same Act of Parliament, and I think, no Person can believe that the Church of <hi>England</hi> is likely to be better secured by those Invadors, than by the King, and a Church of <hi>England</hi> Parliament, which the the King will convene, though now it is unpracticable.</p>
+               <p>You that have an affection for the Church of <hi>England,</hi> cannot but reflect what quarter you are to expect by this Invasion, from such as never admitted Bishops in their own Countries; or such, as when they had the Power here, gloried that they had extirpated Episcopal Government, Root and Branch.</p>
+               <p>What can you expect from such as assert the Doctrin of <hi>Nepthali,</hi> and the Field-Conventiclers? who have since this Invasion, published their Declarati<g ref="char:EOLhyphen"/>on,
+<pb n="6" facs="tcp:97909:4"/> That if the Prince of <hi>Orange</hi> will himself take the Covenant, they will assist him, otherwise they judge his <hi>Invasion</hi> unlawful.</p>
+               <p>Is there no such thing as Allegiance, or is it to be divided? Will you de<g ref="char:EOLhyphen"/>ny your King the Prerogative of dispensing with Penal Laws, for the Ease even of such as you have declared you are willing to Indulge, and will you di<g ref="char:EOLhyphen"/>spense with the Command of God Almighty, the Precepts of the Apostles, and the Canons of our Church; all which assert your Duty to your So<g ref="char:EOLhyphen"/>vereign.</p>
+               <p>Are not your Eyes yet open, to see that if you now renounce your Allegiance, you at once become Perjured before God and the World, and for ever deprive our Church of that Glory of Fidelity to our Sovereign: For which in former times, and the late Age, she hath been so Celebrated?</p>
+               <p>If you would prevent the effusion of Christian Blood, would see our Church flourish, and expect the Protection of the Almighty, you must use the most moving Oratory from your Pulpits, to animate the Subjects to defend our King; Pray fervently for his Success, Preach against Rebellion and Invasion, and exhort your Auditories to desist from the outragious, riotous pulling down of Popish Chapels, and inflame their Zeal to defend their King and Country, and even our Churches from unmerciful Invadors, that will with as much Fury, if they prevail, tear our Common-Prayer, and abolish our Worship, as their Brethren did in 1641.</p>
+               <p>It is to such only, who by Zeal or Inadvertency may bring us to that condi<g ref="char:EOLhyphen"/>tion, that I offer this, never doubting but the Clergy of the true Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> will adhere firmly to the King in this Juncture of Affairs.</p>
+            </div>
+            <div type="part">
+               <head>To the Gentry.</head>
+               <p>YOU are the Persons most concerned in the Peace and Tranquillity of the Kingdom; what can be more destructive to you than a Civil War? By it you must endure the Plunder of your Goods, the depopulating your Towns, the destruction of your Tenents, and all the unspeakable Miseries you either saw, or your Fathers felt, and worse, if worse can be, will you undergo by the ravage of Forreigners, of unknown Language, and worse dispositions.</p>
+               <p>You and your Ancestors have known the benefit of the Monarchical Go<g ref="char:EOLhyphen"/>vernment, and the Devastations and Arbitrariness of a Commonwealth. The Prerogatives our Kings enjoy, secure you from the misery of Anarchy.</p>
+               <p>You know that the King is the Lawful Sovereign. Although the Prince be of the Blood Royal, yet he can have no shadow of Title to the Crown, so long as the King, or Prince of <hi>Wales</hi> live, or their Issue Male after them. By the Prince of <hi>Orange</hi>'s usurping a Regal Stile, and commanding Obedience from the King's Subjects, you may foreknow what a sort of Protector you are like to have, if God for our wantonness under our present Gracious King, should give him any Territory to Rule in here. What just Laws can you ex<g ref="char:EOLhyphen"/>pect from a Conqueror, when the Sword would entitle him to your Estates?</p>
+               <pb n="7" facs="tcp:97909:4"/>
+               <p>Let no Lethargy possess you; you know the utmost of the King's Desire is, that the Kingdom may flourish in Peace and Plenty, and that Liberty of Worship being once Established, you and your Posterity may enjoy perpetu<g ref="char:EOLhyphen"/>al Halcyon, and flourishing Days. Repel, or joyn not with those that would deprive you of that durable Happiness, and you have a King that will secure it to you, to your own Contentments.</p>
+               <p>Think with your selves what you may expect from such Reformers as Sir <hi>W. Waller,</hi> and the rest of that ravenous Crew, the Band of <hi>English</hi> and <hi>Scotch</hi> Fugitives? Are these like to preserve the Monarchy, Liberty, or Property?</p>
+               <p>If these Conquer, the old Trade shall be set up, of Sequestring, decima<g ref="char:EOLhyphen"/>ting, securing your Persons, seizing your Estates for Delinquency, erecting High Courts of Justice, and establishing Major Generals, and forcing you by Monthly Assessments to maintain an Army to enslave you.</p>
+            </div>
+            <div type="part">
+               <head>To the Couragious Soldiery.</head>
+               <p>IT is to you next under God, the King, and his Subjects must own their Pro<g ref="char:EOLhyphen"/>tection. If ever there was a just Cause to Arm for their Defence, you have unquestionably the best. You fight for your undoubted Lawful King, for your Native Country: The rescuing of these from being a Prey to Forreigners, is the highest Prize can be set before you to whet your Courage.</p>
+               <p>Self-Preservation makes the very Coward, the Weak, and Impotent resist, how much more must you do it, who have the Guarding of all the King's Dominions, and in them of your selves, your Parents, Wives and Children, and all your fellow Subjects, of what Condition soever? Many of your E<g ref="char:EOLhyphen"/>nemies are such as you have subdued before, when you were far inferiour in Number. The rest are such as you have seen, how much you are able to outdo: These are such as the Sea hath delivered as a Wreck, and reserved too, to be Conquered by your Valour, and to add Trophies to augment your Glory. You know your Honour as well as Safety is at stake, and experimentally know that in the day of Battle, the Valiant are less endangered than the Coward.</p>
+               <p>You have such a King and General, as few Ages can Parallel, never did the greatest Captain better provide for an Army. He hath, and will spend the greatest part of his Revenue upon you, he Cherished you in time of Peace, made you his special Care, and now you have a glorious Opportunity to signalize your Gratitude to him, and your own renown in this, and all Ages to come. Those whom you now defend, even the whole People of his Majesties Do<g ref="char:EOLhyphen"/>minions, will heap upon you Wealth, and the whole Riches of your Enemies will be yours, and after you are adorned with Palms, and Crowned with Law<g ref="char:EOLhyphen"/>rels, you will be in a condition to requite your Perfidious Enemies in their own Country, and return loaden with the spoils of their Provinces.</p>
+               <p>I foresee your Valour, and fortel your Victory. The Standard of your King is born with you, and by his Majesties own Presence, you will be inspired with
+<pb n="8" facs="tcp:97909:5"/> Resolution and Courage, beyond the expressions of any words. Bear all down before you, M<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Commanders, and most valient Soldiers, that your King may Crown your Victorious Heads, and dispense such Largesses of his Bounty to you, as never any General did before. That every Town and Vil<g ref="char:EOLhyphen"/>lage may receive you with the utmost Expressions of Joy and Thankfullness, and all succeeding Ages may record the wonders you have done, and the Peace and Prosperity you have by this Victory restored to all your Sovereigns Dominions.</p>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>BE not dishe<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ned most Valiant and Loyal Officers and Souldiers, at the base Treachery of some of your Body. It is happy for the King, since they were such pestilent Traytors, that the Plague-Sore is broke. It is now to be hoped the whole remainder of the Army will be perfectly sound; and being quit of the Poison, will with their utmost Vigor serve the King and their Country.</p>
+               <p>This whole Invasion hath been carried on with a most unnatural, unjust and treacherous Conduct. If these had concealed their Treason to the day of Battel, it might have been fatal to the King: But now you have them your open and detestable Enemies, with that guilt of Ingratitude, which must so load and dispirit their Souls, that they will never be able to resist your just and vindicative Arms. There never was a Traytor, but he had a mixture of Coward; none being truly Valiant who have abandoned their Monour, which every Traytor hath done when he makes the first step towards his Treasona<g ref="char:EOLhyphen"/>ble Design.</p>
+               <p>Let the vile Act rouse your Indignation to the highest, set the sharpest edge up<g ref="char:EOLhyphen"/>on, and animate your Courage to the utmost degree that ever possessed the Valiant.</p>
+               <p>You brave Gentlemen that abandoned your Treacherous Companions, and have so gloriously signalized your Loyalty demonstrate, that the In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ection had not so large a spread as some conceive or hope. You will repair the loss of your number by your Valour; and when you meet your perfidious Comrades, will let the World know what difference there is betwixt Treachery and Valour upon the Square.</p>
+               <p>This unparallel'd Baseness will create such an abhorrence in all Loyal Sub<g ref="char:EOLhyphen"/>jects, such a detestation of the Traytors, that it will gain the King many more Hands and Hearts than he hath lost by their Treachery.</p>
+               <p>This will arm every one with greater Diligence and Watchfulness over their Fellow Souldiers; and if there be any more Traytors, they will find no lurking places in the Army.</p>
+               <p>The Loyal Gentry of the Country, now satisfied that this is a <hi>Dutch Inva<g ref="char:EOLhyphen"/>sion</hi> for Conquest, will join their Arrear-Band of the Militia, to save their Royal Sovereign, and undauntedly follow the Example of those renowned Gentlemen of <hi>Gloucester-shire,</hi> and in every County Arm, to succour you to the utmost.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="eng" type="license">
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed, and sold by <hi>Randal Taylor,</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
